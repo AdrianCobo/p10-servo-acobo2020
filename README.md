@@ -1,7 +1,5 @@
 # P10-Servo
 
-# P8-Humedad
-
 ## (CC-BY-NC-SA) Adrián Cobo Merino
 
 El objetivo de este esta práctica es tener la primera toma de contacto con el servo.
