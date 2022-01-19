@@ -5,7 +5,7 @@
 
 import sys, tty, termios, time, pigpio
 
-servoPin = 16 # numeracion en modo BCM (que es el usado por defecto por pigpio)
+servoPin = 26 # numeracion en modo BCM (que es el usado por defecto por pigpio)
 
 miServo = pigpio.pi() # instancia de la clase pi de la libreria pigpio
                       # Usaremos el demonio pigpiod para comandar al motor por teclado
